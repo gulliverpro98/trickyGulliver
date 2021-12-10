@@ -1,6 +1,8 @@
 # trickyGulliver
 
 Ciao!
-# owner
+
+# OWNER
+
 Manuel De Paduanis
 Lorenzo Tricarico
